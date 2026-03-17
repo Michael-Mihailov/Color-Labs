@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CirclePacker
+comment1.params=minRadius
+comment1.target=CirclePacker(double)
+comment2.params=
+comment2.target=java.util.ArrayList\ getCircles()
+comment2.text=\r\n\ returns\ the\ list\ of\ all\ of\ the\ circles\r\n
+numComments=3

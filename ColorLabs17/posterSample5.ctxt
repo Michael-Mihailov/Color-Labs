@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=posterSample5
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ posterSample5\ here.\r\n\ 1\ Copyed\ orginal]\r\n\ 2\ Mirror\r\n\ \r\n\ @author\ (Mr.\ Hayes)\ \r\n\ @version\ (Poster\ Project\ May\ 23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sourcePic\ targetPic
+comment2.target=void\ copyKatie(Picture,\ Picture)
+comment2.text=\r\n\ copy\ from\ source\ to\ target\r\n\ position\ of\ int\ x,\ y\ for\ placement\ on\ the\ target\r\n
+comment3.params=
+comment3.target=void\ smallKatie()
+comment4.params=sourcePic\ targetPic
+comment4.target=void\ mirror(Picture,\ Picture)
+comment5.params=sourcePic\ targetPic
+comment5.target=void\ mirrorKatie(Picture,\ Picture)
+numComments=6

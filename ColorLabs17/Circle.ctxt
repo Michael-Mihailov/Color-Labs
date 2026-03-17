@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=c1\ c2\ c3\ adjust\ previous\ OGc1
+comment10.target=Circle\ pack(Circle,\ Circle,\ Circle,\ double,\ double,\ Circle)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=x\ y\ r
+comment2.target=Circle(double,\ double,\ double)
+comment2.text=\r\n\ Creats\ a\ new\ circle\ at\ the\ givent\ position\ with\ the\ given\ radius\r\n
+comment3.params=x\ y\ r\ outer
+comment3.target=Circle(double,\ double,\ double,\ boolean)
+comment4.params=other\ radiusAdjust
+comment4.target=Circle(Circle,\ double)
+comment5.params=
+comment5.target=double\ getXPos()
+comment6.params=
+comment6.target=double\ getYPos()
+comment7.params=
+comment7.target=double\ getRadius()
+comment8.params=
+comment8.target=boolean\ isOuter()
+comment9.params=c1\ c2
+comment9.target=double[]\ intercepts(Circle,\ Circle)
+comment9.text=\r\n\ find\ the\ 2\ intercepts\ of\ 2\ given\ circles\r\n
+numComments=12

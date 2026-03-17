@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FixTemple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FixTemple\ here.\r\n\ 1\ Copyed\ orginal]\r\n\ 2\ Mirror\r\n\ \r\n\ @author\ (Mr.\ Hayes)\ \r\n\ @version\ (Poster\ Project\ May\ 23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sourcePic\ targetPic
+comment2.target=void\ copy(Picture,\ Picture)
+comment3.params=sourcePic\ targetPic\ y1\ y2\ x1\ x2
+comment3.target=void\ mirror(Picture,\ Picture,\ int,\ int,\ int,\ int)
+numComments=4
